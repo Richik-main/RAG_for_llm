@@ -51,5 +51,5 @@ The notebook will guide you through the process of querying the vector database 
 Additional Model Support: Implement more sophisticated retrieval methods or incorporate other generative models for comparison.
 Scalability: Extend the project to handle larger datasets and more complex retrieval tasks.
 Improved Interface: Develop a user-friendly interface for uploading documents and querying the system.
-Conclusion
+## Conclusion
 This RAG project provides a flexible framework for combining document retrieval and language model generation, enhancing the ability to generate relevant and contextually accurate results. The integration of FAISS for fast retrieval and Hugging Face LLM for generation makes this system a powerful tool for a wide variety of text generation tasks.
