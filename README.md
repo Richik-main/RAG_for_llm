@@ -38,7 +38,7 @@ The repository contains the following files and directories:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/Richik-main/RAG_for_llm.git)
    cd Rag_project
 ## Usage
 - Document Parsing and Vector Creation:
